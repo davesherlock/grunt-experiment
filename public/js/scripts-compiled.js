@@ -3959,4 +3959,4 @@ window.alert = function (message) {
             $(this).dialog('destroy').remove();
         }
     });
-};
+};alert('dave');
