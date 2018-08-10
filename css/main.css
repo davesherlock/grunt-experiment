@@ -1,0 +1,18 @@
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+@import url("https://fonts.googleapis.com/css?family=Lato");
+
+div {
+    /*border: 1px solid #f33;*/
+}
+
+body {
+    /*background: rgb(241, 241, 241);
+    background-image: url('../img/texturetastic_gray.png');*/
+
+    background: url("../img/image-background-paper.png") repeat-y center top #f7f7f7;
+    font-size: 13px;
+    font-family: 'Open Sans', Arial, serif;
+    font-weight: 400;
+}
